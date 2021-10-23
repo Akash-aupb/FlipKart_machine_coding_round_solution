@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecd7d51c-f84b-4e2d-97f5-7561a79a076e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1zmKgpc9N2ZKtun8YBM6dE3bga0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DriverClass" />
+      <module name="FlipkartInterview.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DriverClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd7d51c-f84b-4e2d-97f5-7561a79a076e" name="Default Changelist" comment="" />
+      <created>1634747936040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634747936040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1091" y="29" key="#Project_Structure" timestamp="1634963058163">
+      <screen x="-1366" y="6" width="1366" height="728" />
+    </state>
+    <state x="-1091" y="29" key="#Project_Structure/-1366.6.1366.728/0.0.1440.860@-1366.6.1366.728" timestamp="1634963058163" />
+    <state x="290" y="27" key="#Project_Structure/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1634923211680" />
+    <state x="482" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635013993133">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="482" y="234" key="#com.intellij.fileTypes.FileTypeChooser/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1635013993133" />
+    <state x="525" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1634972857648">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="147" key="#com.intellij.ide.util.MemberChooser/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1634972857648" />
+    <state x="516" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1634973853976">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="516" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1634973853976" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1635013889999">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1635013889999" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1635013889999">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1635013889999" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1635013889999">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1635013889999" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1635013889999">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/-1366.6.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1635013889999" />
+  </component>
+</project>
